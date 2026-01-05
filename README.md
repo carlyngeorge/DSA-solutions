@@ -7,13 +7,22 @@ All problems are implemented with clear logic, proper file naming, and easy-to-u
 
 #Topics Covered
 
-Arrays & Pointers
-Strings
-Linked Lists
-Stacks & Queues
-Searching Algorithms
-Sorting Algorithms
-Recursion
-Dynamic Programming
-Matrix Operations
-Pattern Problems
+~Arrays & Pointers
+
+~Strings
+
+~Linked Lists
+
+~Stacks & Queues
+
+~Searching Algorithms
+
+~Sorting Algorithms
+
+~Recursion
+
+~Dynamic Programming
+
+~Matrix Operations
+
+~Pattern Problems
